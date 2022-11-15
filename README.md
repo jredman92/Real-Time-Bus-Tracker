@@ -1,6 +1,6 @@
 # Real-Time-Bus-Tracker
 
-Description: This project was designed to improve upon an MIT bus stop API. It shows the bus stops in a specific route that goes to and from the MIT campus. Each bus is updated every 15 seconds to show their location. And icons for the busses are colored and pointing in the direction they're going. I added the directional icons for the buses, the borders, backround, and all the css. 
+Description: This project was designed to improve upon an MIT bus stop API. It shows the bus stops in a specific route that go to and from the MIT campus. Each bus is updated every 15 seconds to show their location. And icons for the busses are colored and pointing in the direction they're going. I added the directional icons for the buses, the borders, backround, and all the css. 
 
 How to run: Start a new project at "console.cloud.google.com" to get an API key for google maps
             Copy all the files in the repo
