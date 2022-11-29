@@ -6,6 +6,12 @@ How to run: Start a new project at "console.cloud.google.com" to get an API key 
 
 Future improvements: Some additional features I wanted to include were the Bus ID's when hovering over the icons. A legend could be useful. The times when busses are getting to certain stops would be a nice feature
 
+
+
+
+
+
+
 MIT License
 
 Copyright (c) [2022] [Jaymie Redman]
